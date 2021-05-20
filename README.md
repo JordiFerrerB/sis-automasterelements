@@ -2,6 +2,8 @@ Sistel Master Elements extension provides an interface to create and edit Qlik S
 
 - Download the latest version from [here](https://github.com/JordiFerrerB/sis-automasterelements/blob/master/dist/sis-automasterelements.zip)
 
+<img src="imgs/demo.PNG" alt="Extension example" width="750"/>
+
 ## Creating/editing dimensions
 
 In the ‘Dimensions’ tab, all the fields from the data are populated in a table with the following columns:
