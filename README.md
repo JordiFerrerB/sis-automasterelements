@@ -1,3 +1,5 @@
+ # Qlik Sense auto master elements
+
 Sistel Master Elements extension provides an interface to create and edit Qlik Sense master dimensions and measures from the app fields and variables.
 
 - Download the latest version from [here](https://github.com/JordiFerrerB/sis-automasterelements/blob/master/dist/sis-automasterelements.zip)
