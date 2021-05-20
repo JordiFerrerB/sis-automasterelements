@@ -2,7 +2,7 @@ Sistel Master Elements extension provides an interface to create and edit Qlik S
 
 - Download the latest version from [here](https://github.com/JordiFerrerB/sis-automasterelements/blob/master/dist/sis-automasterelements.zip)
 
-<img src="imgs/demo.PNG" alt="Extension example" width="750"/>
+<img src="imgs/demo.PNG" alt="Extension example" width="100%"/>
 
 ## Creating/editing dimensions
 
