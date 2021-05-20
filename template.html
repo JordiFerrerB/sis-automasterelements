@@ -66,6 +66,7 @@
                 <th>Label</th>
                 <th>Type</th>
                 <td>Format</td>
+                <td></td>
             </tr>
             <tr ng-repeat="variable in activeVariables" class="row" ng-class="$index % 2 == 0 ? 'even' : 'odd'" ng-show="!variable.masterMeasure || !(variable.hasMeasure && hideLinkedVariables)">
                 <td><input class="update-checkbox" type="checkbox" ng-model="variable.update"></td>
